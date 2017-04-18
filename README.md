@@ -1,3 +1,2 @@
 # HTML
-Basic operations
-This is the final project for coursera web develpment course.
+This is the final project for coursera web development course.
